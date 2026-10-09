@@ -6,8 +6,10 @@ My work connects writing, visual direction, content distribution, research, and 
 
 ## Working systems
 
-**[The Pin Multiplier](https://github.com/MonaLeafah/pin-multiplier)** turns one article brief into seven editable pin concepts, with text graphics, human review, plan dates, and CSV/JSON exports. Its fictional demo runs locally without an account or API key.
+**[The Pin Multiplier](https://github.com/MonaLeafah/pin-multiplier)** turns one article brief into seven editable pin concepts, with text graphics, human review, plan dates, and a complete PNG/SVG/CSV/JSON packet. Its fictional demo runs locally without an account or API key.
 
-The first public project uses original code and synthetic examples. Employer-associated implementations and client material stay private.
+**[The Signal Desk](https://github.com/MonaLeafah/signal-desk)** connects public repository sources, saved-snapshot comparisons, human interpretation, and an exportable briefing. [Try the research desk](https://monaleafah.github.io/signal-desk/).
+
+The public projects use original code and clearly labeled examples. Employer-associated implementations and client material stay private.
 
 [Explore my portfolio](https://monasmedia.com/thework/) · [Field Notes and consultations](https://monasmedia.com/thefieldnotes/) · [Read the publication](https://monasmedia.com/blogs2026/)
